@@ -1,3 +1,4 @@
 
-def asd:
+def asd():
     print("hola")
+    print("Otro")
